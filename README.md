@@ -1,0 +1,2 @@
+# altcli
+Practice cli application 
